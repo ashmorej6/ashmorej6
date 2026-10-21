@@ -1,8 +1,10 @@
 ## About me
 
-I've always been fascinated by computer science and have recently found the time and motivation to turn this interest into some active learning.
+Data Engineer with a background in glassblowing and a passion for building things — now working with data platforms, Python, and distributed processing.
 
-I’m currently studying a level 3 diploma in software development with Code Institute as well as following Angela Yu's 100 days of Python in my free time.
-It might be nice to turn this interest and hobby into a career but I am in no rush and am more interested in the technical challenge it presents.
+Interested in AI engineering, inference systems, platform architecture, and running LLMs locally. I enjoy understanding how systems work under the hood and building practical solutions through hands-on experimentation.
 
-- ⚡ Fun fact: I am an experienced glassblower with 12 years industry experience.
+Currently exploring the intersection of data engineering and AI infrastructure.
+
+
+- ⚡ Fun fact: I am an experienced glassblower.
